@@ -1,0 +1,74 @@
+body {
+    text-align: center;
+}
+
+.main {
+    margin-top: 50px;
+}
+
+img {
+    width: 100%;
+    height: 50%;
+    object-fit: cover;
+    margin: 1rem 0;
+}
+
+table {
+    border: 2px solid black;
+    table-layout: fixed;
+    overflow: hidden;
+
+}
+
+
+
+.playBox {
+    border: 3px solid grey;
+    margin-bottom: 4rem;
+    padding-bottom: 1rem;
+
+}
+
+form button {
+    width: 100%;
+    margin-top: 5px;
+}
+
+label {
+    font-size: 1.5rem;
+}
+
+span {
+    font-size: 4rem;
+}
+
+.controlButtons {
+    margin: 1rem 0;
+}
+
+.controlButtons button {
+
+    width: 10rem;
+}
+
+/* added style from GPT for the select */
+select {
+    padding: 0.5rem;
+    font-size: 1rem;
+    font-family: Arial, sans-serif;
+    color: #555;
+    background-color: #fff;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    transition: all 0.5s;
+}
+
+select:focus {
+    outline: none;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    border: 2px blue solid;
+}
+
+.tieBreak {
+    color: white;
+    background-color: red;
+}
