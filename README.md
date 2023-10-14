@@ -45,8 +45,8 @@ If you'd like to contribute to this project, please fork the repository and subm
 
 If you have any questions, feedback, or issues, please feel free to contact me.
 
-Email: AbubakrA.eldaw@gmail.com.
-LinkedIn: https://www.linkedin.com/in/abubakr-eldaw/
-Portfolio: 
+- Email: AbubakrA.eldaw@gmail.com.
+- LinkedIn: https://www.linkedin.com/in/abubakr-eldaw/
+- Portfolio: (Comming Soon :)) 
 
 Enjoy keeping score with the Score-Keeper app!
